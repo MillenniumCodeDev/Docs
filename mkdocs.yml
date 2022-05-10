@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: docs.danielalexis.pt
+site_url: https://docs.danielalexis.pt
 theme:
   name: material
 #markdown_extensions:
