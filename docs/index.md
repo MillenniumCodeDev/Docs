@@ -1,8 +1,8 @@
 # Welcome to GesEnterprise
 
-The following documentation contains development information for the API.
+The following documentation contains development information for the GesEnterprise software.
 
 ## API
 
-API development is located [here](/development)  
-Coding Standards are available [here](/development/codingstandards)
+Development information is located [here](/development)  
+Coding Standards are available [here](/development/coding-standards)
