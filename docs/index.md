@@ -4,5 +4,4 @@ The following documentation contains development information for the GesEnterpri
 
 ## API
 
-Development information is located [here](/development)  
-Coding Standards are available [here](/development/coding-standards)
+Development information is located [here](/development)
