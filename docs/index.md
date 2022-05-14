@@ -1,13 +1,11 @@
-# Welcome to MkDocs
+# Welcome to GesEnterprise
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The following documentation contains development information for the API.
 
-## Commands
+## API
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+API development is located [here](/development)  
+Coding Standards are available [here](/development/codingstandards)
 
 ## Project layout
 

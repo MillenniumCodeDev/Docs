@@ -1,5 +1,5 @@
-# Collections
-
+# DevNotes
+TO BE REMOVED
 ## Schema:
 ### employees table:
 
