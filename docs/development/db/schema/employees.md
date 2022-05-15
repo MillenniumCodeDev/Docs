@@ -5,9 +5,9 @@
 | _id | empNum | companyId | name | role | email | phoneNum | password | vatId | ssNum | active | type |
 |-----|--------|-----------|------|------|-------|----------|----------|-------|-------|--------|------|
 
-* _id: Unique MongoDB document id
+* _id: Unique MongoDB document id (ObjectId)
 * empNum: Company Letter +  Employee Number
-* companyId: MongoDB id for the Company on another collection
+* companyId: ObjectId for the Company on another collection
 * name: Full legal name
 * role: Role in the company
 * email: Employee email (for notifications)
